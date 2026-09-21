@@ -4,6 +4,8 @@
 **Roll No:** 150096725068
 **Cohort:** Sam Altman
 
+**Deployed Link:** https://assignment-11-collaborative-whiteboard-d9mr.onrender.com/ 
+
 A multi-user collaborative whiteboard built with **Node.js, Express, and Socket.io**. Peers join a `boardId` room, draw together in real time, see each other's live cursors, and can undo or clear the shared canvas.
 
 ## Features
