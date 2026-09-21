@@ -14,21 +14,6 @@ A multi-user collaborative whiteboard built with **Node.js, Express, and Socket.
 - `Clear` wipes the board for every connected peer at once
 - Touch support (mobile/tablet) in addition to mouse
 
-## Setup
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Run in dev mode (auto-restart)
-npm run dev
-
-# or run normally
-npm start
-```
-
-Open `http://localhost:5000` in the browser. Enter a name on the join screen and start drawing.
-
 ## Testing (from assignment spec)
 1. Start the server at `http://localhost:5000`.
 2. Open two browser windows side-by-side at `http://localhost:5000?board=demo`.
